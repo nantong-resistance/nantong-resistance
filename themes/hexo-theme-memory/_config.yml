@@ -1,6 +1,6 @@
 # Meta
-keywords: hexo,theme,otakism,otaku
-site_desc: otaku keeps alive
+keywords: Nantong,Resistance,Student,Human rights
+site_desc: Students' lives matter.
 
 # Navigation
 menu:
@@ -29,7 +29,7 @@ search:
 
 # Miscellaneous
 google_analytics:
-author_url: https://artifact.me
+author_url:
 
 # Scss
 node_sass:
@@ -41,13 +41,13 @@ node_sass:
 # use url, not username
 social:
 - slug: email
-  url:
+  url: nantong.resistance@protonmail.com
 - slug: github
-  url: https://github.com/artchen
+  url: https://github.com/nantong-resistance
 - slug: twitter
   url:
 - slug: rss
-  url: /atom.xml
+  url:
 - slug: google
   url:
 - slug: facebook
