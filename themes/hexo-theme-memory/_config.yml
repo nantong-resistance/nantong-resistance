@@ -29,7 +29,7 @@ search:
 
 # Miscellaneous
 google_analytics:
-author_url: nantong.resistance@protonmail.com
+author_url:
 
 # Scss
 node_sass:
@@ -41,7 +41,7 @@ node_sass:
 # use url, not username
 social:
 - slug: email
-  url: nantong.resistance@protonmail.com
+  url: mailto:nantong.resistance@protonmail.com
 - slug: github
   url: https://github.com/nantong-resistance
 - slug: twitter
