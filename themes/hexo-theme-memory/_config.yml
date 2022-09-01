@@ -9,7 +9,7 @@ menu:
   url: /archives
 - name: About
   slug: about
-  url: https://github.com/nantong-resistance
+  url: /about
 
 # Search
 search: 
@@ -29,7 +29,7 @@ search:
 
 # Miscellaneous
 google_analytics:
-author_url:
+author_url: nantong.resistance@protonmail.com
 
 # Scss
 node_sass:
