@@ -4,12 +4,12 @@ site_desc: "Students' lives matter."
 
 # Navigation
 menu:
-- name: About
-  slug: about
-  url: /about
 - name: Archives
   slug: archives
   url: /archives
+- name: About
+  slug: about
+  url: https://github.com/nantong-resistance
 
 # Search
 search: 
